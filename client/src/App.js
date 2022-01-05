@@ -1,6 +1,4 @@
 import React, { useState } from "react";
-
-
 import Navwebview from "./Navbar/Navwebview";
 import Home from "./components/Home";
 import Profile from "./components/Profile";
